@@ -7,7 +7,7 @@ public class Database {
 
     private final String url="jdbc:mysql://localhost/airline management system";
     private final String user ="user";
-    private  final String pass ="lakshmivasan74";
+    private  final String pass ="^^^^^^^^^^^^^";
 
     private Statement statement;
 
